@@ -40,5 +40,5 @@ TOOL REVIEW
 ⚖️ Legal Disclaimer The developer,Vikash Jangir, and the associated team assume no liability for any misuse of this tool. Users are solely responsible for complying with all applicable local, state, national, and international laws. Unauthorized use of this tool to attack or compromise systems without consent is illegal and unethical.
 
 THIS TOOL IS PAID BUT IN WINTERS I AM GIVING YOU FREE LIMMITED TIME 
-ENTER LICANCE KEY :  xai-6Kit0at2dCaQ8W4Z464Fe1lU6ZNyfzYVG1CbLywbHWjy25pmpmAgQelR9wZronOG8k4LndXmdAJJqcTe
-     THIS KEY IS VALID AND WORKING 100% LIMMITED TIME CALIM THIS OFFER NOW
+𝗘𝗡𝗧𝗘𝗥 𝗟𝗜𝗖𝗔𝗡𝗖𝗘 𝗞𝗘𝗬 :ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ      xai-6Kit0at2dCaQ8W4Z464Fe1lU6ZNyfzYVG1CbLywbHWjy25pmpmAgQelR9wZronOG8k4LndXmdAJJqcTe
+
