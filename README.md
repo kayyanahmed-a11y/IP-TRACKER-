@@ -6,62 +6,7 @@
     width='700px' height='50px'>
 
     
-                <path id='path0'>
-                            <!-- Single line -->
-                                <animate id='d0' attributeName='d' begin='0s;d3.end'
-                    dur='3000ms' fill='remove'
-                    values='m0,25 h0 ; m0,25 h700 ; m0,25 h700 ; m0,25 h0' keyTimes='0;0.8;0.8;1' />
-                    </path>
-    <text font-family='"matrix", monospace' fill='#00FFFF' font-size='28'
-        dominant-baseline='middle'
-        x='50%' text-anchor='middle'
-        letter-spacing='normal'>
-        <textPath xlink:href='#path0'>
-            PhishLok V1.0 ACTIVE
-        </textPath>
-    </text>
-        <path id='path1'>
-                            <!-- Single line -->
-                                <animate id='d1' attributeName='d' begin='d0.end'
-                    dur='3000ms' fill='remove'
-                    values='m0,25 h0 ; m0,25 h700 ; m0,25 h700 ; m0,25 h0' keyTimes='0;0.8;0.8;1' />
-                    </path>
-    <text font-family='"matrix", monospace' fill='#00FFFF' font-size='28'
-        dominant-baseline='middle'
-        x='50%' text-anchor='middle'
-        letter-spacing='normal'>
-        <textPath xlink:href='#path1'>
-            Defensive Cybersecurity Tool
-        </textPath>
-    </text>
-        <path id='path2'>
-                            <!-- Single line -->
-                                <animate id='d2' attributeName='d' begin='d1.end'
-                    dur='3000ms' fill='remove'
-                    values='m0,25 h0 ; m0,25 h700 ; m0,25 h700 ; m0,25 h0' keyTimes='0;0.8;0.8;1' />
-                    </path>
-    <text font-family='"matrix", monospace' fill='#00FFFF' font-size='28'
-        dominant-baseline='middle'
-        x='50%' text-anchor='middle'
-        letter-spacing='normal'>
-        <textPath xlink:href='#path2'>
-            Real-time Location Tracking
-        </textPath>
-    </text>
-        <path id='path3'>
-                            <!-- Single line -->
-                                <animate id='d3' attributeName='d' begin='d2.end'
-                    dur='3000ms' fill='remove'
-                    values='m0,25 h0 ; m0,25 h700 ; m0,25 h700 ; m0,25 h0' keyTimes='0;0.8;0.8;1' />
-                    </path>
-    <text font-family='"matrix", monospace' fill='#00FFFF' font-size='28'
-        dominant-baseline='middle'
-        x='50%' text-anchor='middle'
-        letter-spacing='normal'>
-        <textPath xlink:href='#path3'>
-            OSINT Powered Analysis
-        </textPath>
-    </text>
+                
 </svg>
 0696e672d7376672e6865726f6b756170702e636f6d3f666f6e743d6d61747269782673697a653d3238266475726174696f6e3d3330303026636f6c6f723d3030464646462663656e7465723d74727565267643656e7465723d7.svg…]()
 
