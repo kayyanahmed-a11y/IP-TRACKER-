@@ -10,7 +10,7 @@
 </svg>
 
 
-a159-463a-ba65-e96f8565758d)PhishLok V1.0 | Advanced Anti-Phishing & Security Suite ☠️
+PhishLok V1.0 | Advanced Anti-Phishing & Security Suite ☠️
 🛠️ Core Features!-- 
 
 🕵️‍♂️ Intelligent Phishing Detection
