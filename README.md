@@ -25,11 +25,11 @@ PhishLok V1.0 | Advanced Anti-Phishing & Security Suite ☠️
 
 · Single-Command Operation: Perform complex scans with simple commands like ./phishlok --track [TARGET]. · Detailed Reporting: Generates clear, actionable reports outlining threats, confidence levels, and geographic data. · Customizable Rules: Allows advanced users to define and implement their own detection logic and filters.
 
-TOOL REVIEW
-[►] Phishing Detection    [███████████████████░] 98%
-[►] Location Accuracy     [██████████████████░░] 95%
-[►] Data Enrichment      [█████████████████░░░] 92%
-[►] System Performance   [████████████████░░░░] 88%
+                                     TOOL REVIEW
+                                    [►] Phishing Detection    [███████████████████░] 98%
+                                    [►] Location Accuracy     [██████████████████░░] 95%
+                                    [►] Data Enrichment      [█████████████████░░░] 92%
+                                    [►] System Performance   [████████████████░░░░] 88%
 
 📋 Guidelines & Community Disclaimer
 
