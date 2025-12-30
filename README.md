@@ -38,7 +38,8 @@ PhishLok V1.0 | Advanced Anti-Phishing & Security Suite ☠️
 · Educational purposes and cybersecurity awareness. · Authorized security testing on systems you own or have explicit permission to test. · Defensive research to improve personal or organizational security postures.
 
 ⚖️ Legal Disclaimer The developer,Vikash Jangir, and the associated team assume no liability for any misuse of this tool. Users are solely responsible for complying with all applicable local, state, national, and international laws. Unauthorized use of this tool to attack or compromise systems without consent is illegal and unethical.
+--------------------------------------------------------------------------------------------------------------------------------------------------------
 
-THIS TOOL IS PAID BUT IN WINTERS I AM GIVING YOU FREE LIMMITED TIME 
-𝗘𝗡𝗧𝗘𝗥 𝗟𝗜𝗖𝗔𝗡𝗖𝗘 𝗞𝗘𝗬 :ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ      xai-6Kit0at2dCaQ8W4Z464Fe1lU6ZNyfzYVG1CbLywbHWjy25pmpmAgQelR9wZronOG8k4LndXmdAJJqcTe
+                   THIS TOOL IS PAID BUT IN WINTERS I AM GIVING YOU FREE LIMMITED TIME 
+                   𝗘𝗡𝗧𝗘𝗥 𝗟𝗜𝗖𝗔𝗡𝗖𝗘 𝗞𝗘𝗬: xai-6Kit0at2dCaQ8W4Z464Fe1lU6ZNyfzYVG1CbLywbHWjy25pmpmAgQelR9wZronOG8k4LndXmdAJJqcTe
 
