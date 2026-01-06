@@ -42,4 +42,11 @@ PhishLok V1.0 | Advanced Anti-Phishing & Security Suite ☠️
 
         THIS TOOL IS PAID BUT IN WINTERS I AM GIVING YOU FREE LIMMITED TIME 
         𝗘𝗡𝗧𝗘𝗥 𝗟𝗜𝗖𝗔𝗡𝗖𝗘 𝗞𝗘𝗬: xai-6Kit0at2dCaQ8W4Z464Fe1lU6ZNyfzYVG1CbLywbHWjy25pmpmAgQelR9wZronOG8k4LndXmdAJJqcTe
+------------------------------------------------------------------------------------------------------------------------------------------
+## FOR LINUX DOWNLOAD
+    git clone https://github.com/kayyanahmed-a11y/IP-TRACKER-.git
+    cd IP-TRACKER
+    python Location-Tracker.py
+-----------------------------------------------------------------------------------------------------------------------------------------    
+    
 
