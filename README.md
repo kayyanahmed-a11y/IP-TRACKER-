@@ -31,11 +31,12 @@
 📋 Guidelines & Community Disclaimer
 ------------------------------------------------------
 
-✅ Ethical Usage Policy This tool is developed strictly for:
+# ✅ Ethical Usage Policy This tool is developed strictly for:
+------------------------------------------------------
 
 · Educational purposes and cybersecurity awareness. · Authorized security testing on systems you own or have explicit permission to test. · Defensive research to improve personal or organizational security postures.
 
-⚖️ Legal Disclaimer The developer,Vikash Jangir, and the associated team assume no liability for any misuse of this tool. Users are solely responsible for complying with all applicable local, state, national, and international laws. Unauthorized use of this tool to attack or compromise systems without consent is illegal and unethical.
+⚖️ Legal Disclaimer The developer,Mr.Robot, and the associated team assume no liability for any misuse of this tool. Users are solely responsible for complying with all applicable local, state, national, and international laws. Unauthorized use of this tool to attack or compromise systems without consent is illegal and unethical.
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 
     THIS TOOL IS PAID BUT IN WINTERS I AM GIVING YOU FREE LIMMITED TIME 
